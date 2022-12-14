@@ -7,7 +7,7 @@ pip install pywhatkit
 
 
 
-El archivo consta de una sola función importante la cual no lleva argumentos. Para correr en el archivo:
+El archivo consta de una sola función importante la cual no lleva argumentos. Para correr en tu archivo:
 
 import video
 
